@@ -1,6 +1,6 @@
 # 🗼 Japan_Sync
 
-**[➡️ Voir le site en ligne](https://mohamedaiteur.github.io/Japan_Sync/)**
+**[➡️ Voir le site en ligne](https://mohamedaiteur-portfolio.github.io/Japan_Sync/)**
 
 Une Progressive Web App développée pour organiser de A à Z un voyage de 25 jours au Japon (Tokyo, Kyoto, Osaka) à deux, avec synchronisation en temps réel entre les téléphones : dès que l'un modifie quelque chose (un vol, une dépense, une étape du programme), l'autre le voit apparaître instantanément, sans rafraîchir.
 
