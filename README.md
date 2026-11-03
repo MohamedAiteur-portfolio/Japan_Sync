@@ -91,7 +91,7 @@ Point sur lequel j'ai particulièrement travaillé :
 
 ## 📱 Essayer l'application
 
-Le site est accessible directement ici : **https://mohamedaiteur.github.io/Japan_Sync/**
+Le site est accessible directement ici : **https://mohamedaiteur-portfolio.github.io/Japan_Sync/**
 
 Sur mobile, il peut être installé comme une application via "Ajouter à l'écran d'accueil".
 
