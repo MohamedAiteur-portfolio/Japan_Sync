@@ -1,6 +1,6 @@
 # 🧭 Cap Commun
 
-**[➡️ Voir le site en ligne](https://mohamedaiteur-portfolio.github.io/Japan_Sync/)**
+**[➡️ Voir le site en ligne](https://getready-app.github.io/getready/)**
 
 Une Progressive Web App pour organiser un séjour à plusieurs : itinéraire, transports, préparatifs, budget partagé, réservations et informations utiles. Cap Commun s'adapte aux vacances, week-ends, voyages professionnels, événements et groupes variés. Son scénario de démonstration suit quatre amies à Lisbonne et Sintra.
 
@@ -22,25 +22,6 @@ Projet personnel développé avec l'assistance de l'IA (Claude), piloté, débog
 | `js/pwa.js` | Enregistrement du service worker |
 | `sw.js` | Cache et fonctionnement hors ligne |
 | `flight-api/` | Relais Cloudflare Worker pour la recherche de vols par numéro (configuration facultative) |
-
----
-
-## 📸 Captures d'écran
-
-### 1. Vue d'ensemble & Accueil
-<img width="215" height="466" alt="imagesscreen1" src="https://github.com/user-attachments/assets/54029b78-5ab1-41b1-9333-325c0cef3dc3" />
-
-### 2. Itinéraire du Voyage
-<img width="215" height="466" alt="imagesscreen2" src="https://github.com/user-attachments/assets/94d6ce0b-ff46-4e5b-a09b-30749fafc4b1" />
-
-### 3. Checklist de Voyage
-<img width="215" height="466" alt="imagesscreen3" src="https://github.com/user-attachments/assets/81614aa6-d63b-4e79-b508-ed1ecf95c8f8" />
-
-### 4. Budget & Convertisseur de Devises
-<img width="215" height="466" alt="imagesscreen4" src="https://github.com/user-attachments/assets/a81dd1aa-7506-4920-b3f7-920717efd6e7" />
-
-### 5. Infos utiles & Cartographie
-<img width="215" height="466" alt="imagesscreen5" src="https://github.com/user-attachments/assets/b6e7522d-4cae-4b56-9380-9a35d0e1a393" />
 
 ---
 
@@ -118,7 +99,7 @@ Point sur lequel j'ai particulièrement travaillé :
 
 ## 📱 Essayer l'application
 
-Le site est accessible directement ici : **https://mohamedaiteur-portfolio.github.io/Japan_Sync/**
+Le site est accessible directement ici : **https://getready-app.github.io/getready/**
 
 Sur mobile, il peut être installé comme une application via "Ajouter à l'écran d'accueil".
 
