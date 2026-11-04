@@ -1,15 +1,15 @@
 {
-  "name": "Notre Voyage au Japon",
-  "short_name": "Japon 2026",
-  "description": "Organisation du voyage au Japon : vols, itinéraire, budget, checklist et infos utiles.",
+  "name": "Cap Commun — organisez vos séjours",
+  "short_name": "Cap Commun",
+  "description": "Un espace simple pour préparer vos vacances, escapades, voyages professionnels et événements, en solo ou à plusieurs.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f7f7f7",
-  "theme_color": "#d9678a",
-  "orientation": "portrait",
+  "background_color": "#f6f7f1",
+  "theme_color": "#28594f",
   "lang": "fr",
   "icons": [
+    { "src": "images/cap-commun.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
     { "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
     { "src": "images/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }

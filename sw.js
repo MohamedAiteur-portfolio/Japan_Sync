@@ -7,20 +7,25 @@
 //    touche pas, laissé au réseau normal.
 // CACHE_VERSION doit être incrémenté à chaque modification de ce fichier pour
 // forcer le nettoyage de l'ancien cache.
-const CACHE_VERSION = 'v1';
-const CACHE_NAME = `japon-cache-${CACHE_VERSION}`;
+const CACHE_VERSION = 'v33';
+const CACHE_NAME = `cap-commun-cache-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
     './',
     './index.html',
     './manifest.json',
-    './images/hero-sakura-pagoda.webp',
-    './images/fuji-sakura.webp',
-    './images/fushimi-inari.webp',
-    './images/gion-lanterns.webp',
-    './images/tokyo-night.webp',
+    './css/styles.css',
+    './js/app.js',
+    './js/flight-api-config.js',
+    './js/currency.js',
+    './js/pwa.js',
+    './images/cap-commun.svg',
     './images/icon-192.png',
-    './images/icon-512.png'
+    './images/icon-512.png',
+    './images/travel/lisbon.jpg',
+    './images/travel/tokyo.jpg',
+    './images/travel/coast.jpg',
+    './images/travel/journey.jpg'
 ];
 
 self.addEventListener('install', event => {
